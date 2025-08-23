@@ -1,4 +1,5 @@
 🍃 Taller Tienda de Borojó
+
 📌 Descripción
 
 Este proyecto implementa una base de datos MongoDB para una tienda de productos derivados del borojó, donde se gestionan:
@@ -51,6 +52,7 @@ Ejecutar consultas de prueba:
 mongo < consultas_lecturas.js
 
 📊 Contenido por archivo
+
 📌 1. Datos.js
 
 Crea la base de datos tienda-de-borojo.
